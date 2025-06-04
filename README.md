@@ -75,4 +75,5 @@ Sorularınız veya önerileriniz için GitHub üzerinden iletişime geçebilirsi
 
 ## Ekran Görüntüsü
 
-![Ekran Görüntüsü](https://github.com/meryemnurpala/Automatic-feeding-project/blob/main/ekran_goruntusu.jpg)
+![Uploading image.png…]()
+
